@@ -35,14 +35,14 @@ Frontend Developer with **3+ years of experience** building scalable and respons
 
 ---
 ### ⚙️ Backend            |
-| ---------- | ------------------------ |
+
 | Node.js    | ██████████████░░░░░░ 75% |
 | Express.js | █████████████░░░░░░░ 70% |
 
 ---
 
 ### 🚀 Frameworks & Tools     |
-| ------------ | ------------------------ |
+
 | Git & GitHub | █████████████████░░░ 85% |
 
 
