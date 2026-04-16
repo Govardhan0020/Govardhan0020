@@ -24,23 +24,33 @@ Frontend Developer with **3+ years of experience** building scalable and respons
 
 ## 🛠️ Tech Stack
 
-🎨 Frontend  <br>
-HTML5          ██████████████████░░ 90% <br>
-CSS3           █████████████████░░░ 85%  <br>
-JavaScript     ██████████████████░░ 90%  <br>
-React.js       █████████████████░░░ 85%  <br>
-Redux Toolkit  ████████████████░░░░ 80%  <br>
-Next.js        ██████████████░░░░░░ 75%  <br>
+### 🎨 Frontend
 
+| Technology    | Proficiency              |
+| ------------- | ------------------------ |
+| HTML5         | ██████████████████░░ 90% |
+| CSS3          | █████████████████░░░ 85% |
+| JavaScript    | ██████████████████░░ 90% |
+| React.js      | █████████████████░░░ 85% |
+| Redux Toolkit | ████████████████░░░░ 80% |
+| Next.js       | ██████████████░░░░░░ 75% |
 
-⚙️ Backend   <br>
-Node.js        ██████████████░░░░░░ 75%   <br>
-Express js     ██████████████░░░░░░ 75%   <br>
-Express.js     █████████████░░░░░░░ 70%   <br>
+---
 
+### ⚙️ Backend
 
-🚀 Frameworks & Tools    <br>
-Git & GitHub   █████████████████░░░ 85%    <br>
+| Technology | Proficiency              |
+| ---------- | ------------------------ |
+| Node.js    | ██████████████░░░░░░ 75% |
+| Express.js | █████████████░░░░░░░ 70% |
+
+---
+
+### 🚀 Frameworks & Tools
+
+| Technology   | Proficiency              |
+| ------------ | ------------------------ |
+| Git & GitHub | █████████████████░░░ 85% |
 
 
 ## 💼 Experience
