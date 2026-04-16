@@ -1,8 +1,6 @@
-# <div align="center">🚀 Jujaru Govardhan</div>
+# <div align="center">🚀 hi , I am  Jujaru Govardhan</div>
 
 <div align="center">
-
-![banner](https://capsule-render.vercel.app/api?type=waving\&color=0:0f2027,50:203a43,100:2c5364\&height=200\&section=header\&text=Jujaru%20Govardhan\&fontSize=40\&fontColor=ffffff)
 
 💻 Frontend Developer | React.js Specialist | 3+ Years Experience
 📍 Hyderabad, India
