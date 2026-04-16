@@ -24,7 +24,7 @@ Frontend Developer with **3+ years of experience** building scalable and respons
 
 ## 🛠️ Tech Stack
 
-🎨 Frontend
+🎨 Frontend  <br>
 HTML5          ██████████████████░░ 90%
 CSS3           █████████████████░░░ 85%
 JavaScript     ██████████████████░░ 90%
