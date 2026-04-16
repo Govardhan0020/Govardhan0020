@@ -21,7 +21,6 @@ Frontend Developer with **3+ years of experience** building scalable and respons
 ---
 
 ## 🛠️ Tech Stack
-
 ### 🎨 Frontend
 
 | Technology    | Proficiency              |
@@ -34,17 +33,21 @@ Frontend Developer with **3+ years of experience** building scalable and respons
 | Next.js       | ██████████████░░░░░░ 75% |
 
 ---
-### ⚙️ Backend            |
 
-| Node.js    | ██████████████░░░░░░ 75% | <br>
+### ⚙️ Backend
+
+| Technology | Proficiency              |
+| ---------- | ------------------------ |
+| Node.js    | ██████████████░░░░░░ 75% |
 | Express.js | █████████████░░░░░░░ 70% |
 
 ---
 
-### 🚀 Frameworks & Tools     |
+### 🚀 Frameworks & Tools
 
+| Technology   | Proficiency              |
+| ------------ | ------------------------ |
 | Git & GitHub | █████████████████░░░ 85% |
-
 
 ## 💼 Experience
 
