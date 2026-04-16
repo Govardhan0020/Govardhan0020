@@ -1,4 +1,4 @@
-# <div align="center">🚀 hi , I am  Jujaru Govardhan</div>
+# <div align="center">🚀 Hi , I am  Jujaru Govardhan</div>
 
 <div align="center">
 
@@ -34,19 +34,14 @@ Frontend Developer with **3+ years of experience** building scalable and respons
 | Next.js       | ██████████████░░░░░░ 75% |
 
 ---
-
-### ⚙️ Backend
-
-| Technology | Proficiency              |
+### ⚙️ Backend            |
 | ---------- | ------------------------ |
 | Node.js    | ██████████████░░░░░░ 75% |
 | Express.js | █████████████░░░░░░░ 70% |
 
 ---
 
-### 🚀 Frameworks & Tools
-
-| Technology   | Proficiency              |
+### 🚀 Frameworks & Tools     |
 | ------------ | ------------------------ |
 | Git & GitHub | █████████████████░░░ 85% |
 
