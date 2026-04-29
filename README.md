@@ -104,20 +104,3 @@ Sri Krishnadevaraya University, Anantapur (2021)
 * 📧 Email: [govardhanjpg6940@gmail.com](mailto:govardhanjpg6940@gmail.com)
 
 ---
-
-## 🌍 Languages
-
-* Telugu 🇮🇳
-* Hindi 🇮🇳
-* English 🌍
-
----
-
-## 🎯 Hobbies
-
-* 📚 Reading tech blogs
-* 🎥 Watching coding tutorials
-* ✍️ Writing notes
-* 🤝 Developer communities
-
----
