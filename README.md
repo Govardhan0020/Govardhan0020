@@ -140,7 +140,7 @@ Frontend Developer with **3.10 years of experience** in designing and developing
 * Enabled chat history persistence using MongoDB.
 * Integrated REST APIs for efficient data handling and storage.
 
- 🔗 https://github.com/Govardhan0020/MernchatApp
+
 ---
 
 ## 🎓 Education
