@@ -139,6 +139,7 @@ Frontend Developer with **3.10 years of experience** in designing and developing
 * Added typing indicators and online/offline user status.
 * Enabled chat history persistence using MongoDB.
 * Integrated REST APIs for efficient data handling and storage.
+
  🔗 https://github.com/Govardhan0020/MernchatApp
 ---
 
