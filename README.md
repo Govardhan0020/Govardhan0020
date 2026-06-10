@@ -58,7 +58,6 @@ Frontend Developer with **3.10 years of experience** in designing and developing
 | Git & GitHub    | █████████████████░░░ 85% |
 | VS Code         | █████████████████░░░ 85% |
 | Postman         | ████████████████░░░░ 80% |
-| Jira            | ████████████████░░░░ 80% |
 | Webpack         | ██████████████░░░░░░ 75% |
 | Vite            | ██████████████░░░░░░ 75% |
 | Chrome DevTools | █████████████████░░░ 85% |
